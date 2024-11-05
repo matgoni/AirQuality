@@ -1,4 +1,4 @@
-# Comparación de Modelos SVM y Random Forest para la Clasificación de Niveles de Riesgo en Calidad del Aire
+# Clasificación de Niveles de Riesgo en la Calidad del Aire: Un Estudio Comparativo entre SVM y Random Forest
 Este proyecto desarrolla y compara dos modelos de aprendizaje automático, SVM (Support Vector Machines) y Random Forest, para clasificar los niveles de riesgo en la calidad del aire basados en concentraciones de diversos contaminantes. Los resultados buscan apoyar el diseño de sistemas de alerta en tiempo real para la protección de la salud pública.
 
 ## Objetivos del Proyecto
